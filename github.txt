@@ -1,1 +1,4 @@
 https://github.com/emmannuel/api-monitoramento-energia
+http://localhost:3000/public/Cadastro.html
+http://localhost:3000/public/historico.html
+http://localhost:3000/public/alertas.html
